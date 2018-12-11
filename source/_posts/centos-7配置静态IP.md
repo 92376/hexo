@@ -2,7 +2,7 @@
 title:  "centos-7配置静态IP"
 date:   2018-11-5 15:15:27
 categories: centos-7
-tag: network, ifcfg-ens33
+tag: [network, ifcfg-ens33]
 ---
 
 

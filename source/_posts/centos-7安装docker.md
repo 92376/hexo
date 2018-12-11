@@ -2,7 +2,7 @@
 title:  "centos-7安装docker"
 date:   2018-11-10 14:12:26
 categories: docker
-tag: yum, docker
+tag: [yum, docker]
 ---
 
 
